@@ -5,7 +5,7 @@
 > I like __learning__, A __Lot__
 ___
 
-![ ]("./headshot.jpg")
+![ ](./headshot.jpg)
 ___
 
 ## Interests
