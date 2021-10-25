@@ -1,15 +1,14 @@
 # Hello, I'm Toby
 
-> I'm a new father and developer from Southwest Virginia
-> I like **learning**, A **Lot**
-
----
-
 ![ ](./headshot.jpg)
 
----
+## ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=blue)
 
-## Interests
+## A little about me
+
+I started this journey a few years ago, wanting to teach myself to HTML and CSS to make a basic photography website, without using the same old sites from wix or wordpress that everyone else was. Once I dove in, I discovered how natural the learning process was to me and the passion I have for creating new things. Fast forward to now and many freelance and personal projects later, I cant imagine doing anything else!
+
+### What I Do
 
 Some of the things I use most include:
 
@@ -22,8 +21,10 @@ I am currently focusing on learning:
 - [Go](https://github.com/golang/go)
 - [Rust](https://github.com/rust-lang/rust)
 
-My current project is:
+Check out my pins for my latest projects!
 
-- [cat_in_x_flavors](https://github.com/lrth06/cat_in_x_flavors)
+Some fun facts about me:
 
-I started this journey a few years ago, wanting to teach myself to HTML and CSS to make a basic photography website, without using the same old sites from wix or wordpress that everyone else was. Once I dove in, I discovered how natural the learning process was to me and the passion I have for creating new things. Fast forward to now and many freelance and personal projects later, I am seeking my first job as a professional developer.
+- I am a **new father** :baby:
+- I am self-taught :muscle:
+- I enjoy **learning** :sunglasses:
