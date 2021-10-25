@@ -2,7 +2,7 @@
 
 ![ ](./headshot.jpg)
 
-## ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=blue)
+## ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrth06&left_color=green&right_color=blue)
 
 ## A little about me
 
