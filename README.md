@@ -20,6 +20,7 @@ I am currently focusing on learning:
 
 - [Go](https://github.com/golang/go)
 - [Rust](https://github.com/rust-lang/rust)
+- [Ruby](https://github.com/ruby/ruby)
 
 Check out my pins for my latest projects!
 
