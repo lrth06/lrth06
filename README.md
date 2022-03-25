@@ -3,6 +3,7 @@
 ![ ](./headshot.jpg)
 
 ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrth06&left_color=green&right_color=blue)
+## ![visitors](https://visit-counter-fz7yamg3ka-uc.a.run.app/?user=lrth06)
 
 ## A little about me
 
