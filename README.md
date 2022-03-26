@@ -3,7 +3,7 @@
 ![ ](./headshot.jpg)
 
 <!-- ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrth06&left_color=green&right_color=blue) -->
-## ![visitors](https://view-counter.tobyhagan.com/?user=lrth06&icon=true)
+## ![visitors](https://view-counter.tobyhagan.com/?user=lrth06&base=21252b&accent=2d333b)
 
 ## A little about me
 
